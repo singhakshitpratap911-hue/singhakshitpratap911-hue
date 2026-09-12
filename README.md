@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **B.Tech CSE @ Dr. A.P.J. Abdul Kalam Technical University (AKTU)**
+- 🎓 **B.Tech in Computer Science and Engineering (AIML)** @ United College of Engineering and Research (AKTU)
 - 💡 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**
 - 🛠️ Currently practicing **DSA & Core CS Fundamentals**
 - 🚀 Exploring **Full-Stack AI Integrations & Network Security Solutions**
