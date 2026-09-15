@@ -58,7 +58,7 @@
   <a href="https://www.hackerrank.com/profile/singhakshitprat1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/singhakshitw0gm?from=explore&tab=activity/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/singhakshitw0gm?from=explore&tab=activity" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/apex_dev911" target="_blank">
